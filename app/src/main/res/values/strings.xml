@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTracker</string>
+    <string name="default_upload_website">http://oragps.com/recibir/datos.php</string>
+    <string name="app_id">com.alcatrazstudios.apps.androidtracker</string>
+</resources>
